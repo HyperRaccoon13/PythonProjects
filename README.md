@@ -1,3 +1,3 @@
 # PythonProjects
-A place for my bad paython
+A place for my bad python
 My really bad python
