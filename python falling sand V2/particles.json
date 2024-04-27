@@ -1,0 +1,35 @@
+[
+{
+    "name": "sand",
+    "properties": {
+        "group": "dust",
+        "speed": "1",
+        "colour": [255, 255, 0],
+        "affectByGravity": true,
+        "mass": 1,
+        "flammable": false
+    }
+},
+{
+    "name": "stone",
+    "properties": {
+        "group": "solid",
+        "speed": "0",
+        "colour": [200, 200, 200],
+        "affectByGravity": false,
+        "mass": 10,
+        "flammable": false
+    }
+},
+{
+    "name": "water",
+    "properties": {
+        "group": "fluid",
+        "speed": "1",
+        "colour": [0, 0, 200],
+        "affectByGravity": true,
+        "mass": 10,
+        "flammable": false
+    }
+}
+]
